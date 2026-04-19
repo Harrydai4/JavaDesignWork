@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "运行 AddressBookApp",
+      "request": "launch",
+      "mainClass": "com.javadesign.addressbook.AddressBookApp",
+      "projectName": "addressbook"
+    },
+    {
+      "type": "java",
+      "name": "调试 AddressBookApp",
+      "request": "launch",
+      "mainClass": "com.javadesign.addressbook.AddressBookApp",
+      "projectName": "addressbook",
+      "console": "internalConsole"
+    }
+  ]
+}
